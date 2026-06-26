@@ -35,6 +35,6 @@ This project is currently a learning and portfolio project.
 Example images are using this PubMed article: 
 https://pubmed.ncbi.nlm.nih.gov/42348312/
 
-<img width="624" height="299" alt="AI1" src="https://github.com/user-attachments/assets/16e7d826-94e5-4b4d-a37c-c7c2df4276f5" />
-<img width="624" height="278" alt="AI2" src="https://github.com/user-attachments/assets/452ba318-1a96-43b9-a661-b429e0557da0" />
+<img width="3814" height="1911" alt="AI1" src="https://github.com/user-attachments/assets/b4efda16-c6b0-4f4f-b015-8241658840df" />
+<img width="3784" height="1685" alt="AI2" src="https://github.com/user-attachments/assets/2cd3773d-8671-475b-9141-8944629fdf62" />
 

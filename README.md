@@ -31,3 +31,10 @@ Do not enter protected health information, patient-identifying information, or c
 ## Project Status
 
 This project is currently a learning and portfolio project.
+
+Example images are using this PubMed article: 
+https://pubmed.ncbi.nlm.nih.gov/42348312/
+
+<img width="624" height="299" alt="AI1" src="https://github.com/user-attachments/assets/16e7d826-94e5-4b4d-a37c-c7c2df4276f5" />
+<img width="624" height="278" alt="AI2" src="https://github.com/user-attachments/assets/452ba318-1a96-43b9-a661-b429e0557da0" />
+

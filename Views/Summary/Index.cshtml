@@ -1,0 +1,21 @@
+@model MediSummaryAI.Models.SummaryRequest
+
+<h2>MediSummary AI</h2>
+
+<form asp-action="Index" method="post">
+    <div class="mb-3">
+        <label class="form-label">Paste document text</label>
+        <textarea asp-for="DocumentText" class="form-control" rows="10"></textarea>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Summarize</button>
+</form>
+
+@if (!string.IsNullOrWhiteSpace(Model.SummaryResult))
+{
+    <hr />
+    <h3>Summary</h3>
+    <div class="alert alert-secondary">
+        @Model.SummaryResult
+    </div>
+}
